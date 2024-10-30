@@ -118,7 +118,7 @@ const PayPalPaymentModal: React.FC<PayPalPaymentModalProps> = ({
             type="submit"
             className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-md"
           >
-            <a href="/successfully">Pay Now</a>
+            <p>Pay Now</p>
           </button>
         </form>
       </div>
